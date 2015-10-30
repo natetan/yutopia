@@ -10,8 +10,17 @@
 
 /* Basic */
 
+	.answer {
+		margin-bottom: 3%;
+	}
+
+	.learnmore {
+		text-align: center;
+	}
+
 	body {
 		background: #fff;
+		font-family: arial;
 	}
 
 	body, input, select, textarea {
